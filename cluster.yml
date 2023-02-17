@@ -1,8 +1,8 @@
 apiVersion: eksctl.io/v1alpha5
 kind: clusterConfig
 
-metadata
-  name: cicd-demo #cluster name
+metadata:
+  name: group2c2-clld.cicd #cluster name
   region:  us-west-w
 
 nodeGroups:
